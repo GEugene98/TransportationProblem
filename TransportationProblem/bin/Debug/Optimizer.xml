@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Optimizer</name>
+    </assembly>
+    <members>
+        <member name="T:Optimizer.Transportation">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Optimizer.Transportation.GetFirstScheme(System.Double[],System.Double[])">
+            <summary>
+            Build First Scheme with northwestern angle method
+            </summary>
+            <param name="A">Array of units from 'the sender'</param>
+            <param name="B">Array of units to 'the recipient'</param>
+            <returns>Return matrix</returns>
+        </member>
+        <member name="M:Optimizer.Transportation.CalculateCost(System.Nullable{System.Double}[0:,0:],System.Double[0:,0:])">
+            <summary>
+            Calculate final cost 
+            </summary>
+            <param name="x">Array containing the located units</param>
+            <param name="c">Cost matrix</param>
+            <returns>Return final cost</returns>
+        </member>
+        <member name="M:Optimizer.Transportation.GetPotentials(System.Nullable{System.Double}[0:,0:],System.Double[0:,0:])">
+            <summary>
+            Calculte potentials U and V
+            </summary>
+            <param name="x">Array containing the located units</param>
+            <param name="c">Cost matrix</param>
+            <returns></returns>
+        </member>
+        <member name="M:Optimizer.Transportation.Evaluation(System.Nullable{System.Double}[0:,0:],System.Double[0:,0:],System.Nullable{System.Double}[][])">
+            <summary>
+            Calculate valuations of empty cells
+            </summary>
+            <param name="x">Array containing the located units</param>
+            <param name="c">Cost matrix</param>
+            <param name="p">Potentials</param>
+            <returns></returns>
+        </member>
+        <member name="M:Optimizer.Transportation.GetLambda(System.Nullable{System.Double}[0:,0:],System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="x"></param>
+            <param name="iMin"></param>
+            <param name="jMin"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Optimizer.Transportation.MinOfLambda(System.String[0:,0:],System.Nullable{System.Double}[0:,0:])">
+            <summary>
+            
+            </summary>
+            <param name="MatrixOfLambda"></param>
+            <param name="Units"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

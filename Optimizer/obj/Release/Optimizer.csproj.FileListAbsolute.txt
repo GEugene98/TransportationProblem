@@ -1,0 +1,25 @@
+C:\Users\Евгений\Desktop\тр з\Optimizer\bin\Release\Optimizer.dll
+C:\Users\Евгений\Desktop\тр з\Optimizer\bin\Release\Optimizer.pdb
+C:\Users\Евгений\Desktop\тр з\Optimizer\obj\Release\Optimizer.dll
+C:\Users\Евгений\Desktop\тр з\Optimizer\obj\Release\Optimizer.pdb
+D:\тр з\Optimizer\bin\Release\Optimizer.dll
+D:\тр з\Optimizer\bin\Release\Optimizer.pdb
+D:\тр з\Optimizer\obj\Release\Optimizer.csprojResolveAssemblyReference.cache
+D:\тр з\Optimizer\obj\Release\Optimizer.dll
+D:\тр з\Optimizer\obj\Release\Optimizer.pdb
+C:\Users\Евгений\Desktop\тр з\Optimizer\obj\Release\Optimizer.csprojResolveAssemblyReference.cache
+Z:\Учеба\Моё\тр з\Optimizer\bin\Release\Optimizer.dll
+Z:\Учеба\Моё\тр з\Optimizer\bin\Release\Optimizer.pdb
+Z:\Учеба\Моё\тр з\Optimizer\obj\Release\Optimizer.csprojResolveAssemblyReference.cache
+Z:\Учеба\Моё\тр з\Optimizer\obj\Release\Optimizer.dll
+Z:\Учеба\Моё\тр з\Optimizer\obj\Release\Optimizer.pdb
+F:\Мои работы\Транспортная задача\Optimizer\bin\Release\Optimizer.dll
+F:\Мои работы\Транспортная задача\Optimizer\bin\Release\Optimizer.pdb
+F:\Мои работы\Транспортная задача\Optimizer\obj\Release\Optimizer.csprojResolveAssemblyReference.cache
+F:\Мои работы\Транспортная задача\Optimizer\obj\Release\Optimizer.dll
+F:\Мои работы\Транспортная задача\Optimizer\obj\Release\Optimizer.pdb
+F:\Транспортная задача\Optimizer\bin\Release\Optimizer.dll
+F:\Транспортная задача\Optimizer\bin\Release\Optimizer.pdb
+F:\Транспортная задача\Optimizer\obj\Release\Optimizer.csprojResolveAssemblyReference.cache
+F:\Транспортная задача\Optimizer\obj\Release\Optimizer.dll
+F:\Транспортная задача\Optimizer\obj\Release\Optimizer.pdb

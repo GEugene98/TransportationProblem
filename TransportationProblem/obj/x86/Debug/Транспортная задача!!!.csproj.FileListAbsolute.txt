@@ -1,0 +1,92 @@
+C:\Users\Евгений\Desktop\Транспортная задача!!!\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача!!!\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача!!!\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Евгений\Desktop\Транспортная задача!!!\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Евгений\Desktop\Транспортная задача!!!\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\Транспортная задача!!!\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача!!!\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача!!!\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\Транспортная задача!!! — копия\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача!!! — копия\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача!!! — копия\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача!!! — копия\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача!!! — копия\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\Транспортная задача!!! — копия\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Евгений\Desktop\Транспортная задача!!! — копия\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Евгений\Desktop\Транспортная задача!!! — копия\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\Транспортная задача (песочница)\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача (песочница)\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача (песочница)\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача (песочница)\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача (песочница)\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\Транспортная задача (песочница)\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Евгений\Desktop\Транспортная задача (песочница)\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Евгений\Desktop\Транспортная задача (песочница)\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Евгений\Desktop\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Евгений\Desktop\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\Транспортная задача — копия\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача — копия\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача — копия\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\Транспортная задача — копия\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\Транспортная задача — копия\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\Транспортная задача — копия\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Евгений\Desktop\Транспортная задача — копия\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Евгений\Desktop\Транспортная задача — копия\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\копия с ноута\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\копия с ноута\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\копия с ноута\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.exe
+C:\Users\Евгений\Desktop\копия с ноута\Транспортная задача!!!\bin\Debug\Транспортная задача!!!.pdb
+C:\Users\Евгений\Desktop\копия с ноута\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\копия с ноута\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Евгений\Desktop\копия с ноута\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Евгений\Desktop\копия с ноута\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+D:\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+D:\тр з\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\тр з\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+D:\тр з\Транспортная задача!!!\bin\Debug\Транспортная задача.exe
+D:\тр з\Транспортная задача!!!\bin\Debug\Транспортная задача.pdb
+D:\тр з\Транспортная задача!!!\bin\Debug\Optimizer.dll
+D:\тр з\Транспортная задача!!!\bin\Debug\Optimizer.pdb
+D:\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача.exe
+D:\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача.pdb
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача.exe
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача.pdb
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\bin\Debug\Транспортная задача.exe
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\bin\Debug\Транспортная задача.pdb
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\bin\Debug\Optimizer.dll
+C:\Users\Евгений\Desktop\тр з\Транспортная задача!!!\bin\Debug\Optimizer.pdb
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача.exe
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача.pdb
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\bin\Debug\Транспортная задача.exe
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\bin\Debug\Транспортная задача.pdb
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\bin\Debug\Optimizer.dll
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\bin\Debug\Optimizer.pdb
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Учеба\Моё\тр з\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+F:\Транспортная задача\Транспортная задача!!!\bin\Debug\Транспортная задача.exe.config
+F:\Транспортная задача\Транспортная задача!!!\bin\Debug\Транспортная задача.exe
+F:\Транспортная задача\Транспортная задача!!!\bin\Debug\Транспортная задача.pdb
+F:\Транспортная задача\Транспортная задача!!!\bin\Debug\Optimizer.dll
+F:\Транспортная задача\Транспортная задача!!!\bin\Debug\Optimizer.pdb
+F:\Транспортная задача\Транспортная задача!!!\bin\Debug\Optimizer.xml
+F:\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csprojResolveAssemblyReference.cache
+F:\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.ResolveComReference.cache
+F:\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\Транспортная задача!!!.csproj.GenerateResource.Cache
+F:\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\Транспортная задача.exe
+F:\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\Транспортная задача.pdb
+F:\Транспортная задача\Транспортная задача!!!\obj\x86\Debug\WindowsFormsApplication1.AboutBox.resources
